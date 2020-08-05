@@ -1,2 +1,2 @@
-# todo-app
-Repositório para uma aplicação ToDo List.
+# ToDo App
+Repositório para uma simples aplicação ToDo List usando a stack MERN.
