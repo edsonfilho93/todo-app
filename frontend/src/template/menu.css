@@ -1,7 +1,16 @@
 li {
   padding: 10px;
+  font-size: 17px;
 }
 
 .navbar .container {
   justify-content: left;
+}
+
+nav {
+  border-radius: 5px;
+}
+
+* {
+  margin: 1px;
 }

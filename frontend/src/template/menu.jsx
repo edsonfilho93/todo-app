@@ -7,7 +7,7 @@ export default (props) => {
     <nav className="navbar navbar-dark bg-dark">
       <div className="container">
         <div className="navbar-header">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="#/todos">
             <BsCardChecklist /> Navbar
           </a>
         </div>
